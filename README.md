@@ -7,13 +7,13 @@
 
 ## Technologies and Libraries
 - MVVM
-- RxSwift
 - Alamofire
+- RxSwift
+- Kingfisher
+- Singleton
 - FirebaseFirestore
 - FirebaseAuth
 - FirebaseStorage
-- Kingfisher
-- Singleton
 
 ## Screenshots
 
