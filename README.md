@@ -5,6 +5,16 @@
 ## Description
 <p>An app for ordering meals with the ability to add them to the cart, favorite them, and various filtering features.</p>
 
+## Technologies and Libraries
+- MVVM
+- RxSwift
+- Alamofire
+- FirebaseFirestore
+- FirebaseAuth
+- FirebaseStorage
+- Kingfisher
+- Singleton
+
 ## Screenshots
 
 | Intro Screen | Login Screen | Register Screen | Forget Password Screen |
