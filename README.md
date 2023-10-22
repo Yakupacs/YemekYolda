@@ -3,7 +3,7 @@
 </h1>
 
 ## Description
-<p>An app for ordering meals with the ability to add them to the cart, favorite them, and various filtering features.</p>
+<p>"Yemek Yolda" application is the graduation project of Techcareer iOS Bootcamp. With this app, you can order your meals, track these orders, and add meals to your favorites. This app includes features such as adding addresses, adding payment information, tracking orders, editing profiles, and adding meals to favorites.</p>
 
 ## Technologies and Libraries
 - MVVM
